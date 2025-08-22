@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('FreightBigPro-BlackItalic.woff2') format('woff2'),
+        url('FreightBigPro-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('FreightBigPro-Bold.woff2') format('woff2'),
+        url('FreightBigPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('FreightBigPro-BoldItalic.woff2') format('woff2'),
+        url('FreightBigPro-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('FreightBigPro-BookItalic.woff2') format('woff2'),
+        url('FreightBigPro-BookItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('FreightBigPro-Black.woff2') format('woff2'),
+        url('FreightBigPro-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('FreightBigPro-LightItalic.woff2') format('woff2'),
+        url('FreightBigPro-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('FreightBigPro-Light.woff2') format('woff2'),
+        url('FreightBigPro-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('FreightBigPro-Book.woff2') format('woff2'),
+        url('FreightBigPro-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('FreightBigPro-SemiboldItalic.woff2') format('woff2'),
+        url('FreightBigPro-SemiboldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('FreightBigPro-Medium.woff2') format('woff2'),
+        url('FreightBigPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('FreightBigPro-MediumItalic.woff2') format('woff2'),
+        url('FreightBigPro-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Freight Big Pro';
+    src: url('FreightBigPro-Semibold.woff2') format('woff2'),
+        url('FreightBigPro-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
